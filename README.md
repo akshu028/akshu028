@@ -1,35 +1,21 @@
-✦ hey, i'm akshita! ⋆౨ৎ˚⟡˖
+<p align="center">
+  <img src="./assets/hero.png" width="100%" alt="Akshita's Little Internet Corner">
+</p>
 
-engineering student • tiny idea collector • professional overthinker • builder of random cool things
-currently turning ☕ + curiosity + questionable amounts of debugging into projects.
+<br>
 
-🌷 about_me.exe
+<p align="center">
+  <img src="./assets/who_is_this_human.png" width="100%" alt="Who is this human?">
+</p>
 
-👩🏻‍💻 VLSI Design & Technology student
-🧠 I like figuring out how things work (and occasionally breaking them first)
-🎨 into UI/UX, creative web experiences & making technology look less boring
-⚡ currently building ideas, projects and possibly CodeKadhai 👀
+<br>
 
-🧃 Things I play with
+<p align="center">
+  <img src="./assets/stuff_i_carry_in_my_brain.png" width="100%" alt="Stuff I carry in my brain">
+</p>
 
-🐍 Python
-⚙️ C
-🌐 HTML + CSS
-🗄️ MySQL
-🐼 Pandas
-🎨 UI/UX
+<br>
 
-🎪 my little project circus
-
-🎮 Hangman
-🔐 Caesar Cipher
-🌷 Mother's Day Website
-💻 Web experiments
-🚀 Future CodeKadhai
-
-🌱 currently brewing...
-
-🧪 experimenting with → web development
-⚡ studying → VLSI & digital electronics
-🏗️ building → CodeKadhai
-🧠 learning → how to turn ideas into actual products
+<p align="center">
+  <img src="./assets/currently_brewing.png" width="100%" alt="Currently brewing">
+</p>
